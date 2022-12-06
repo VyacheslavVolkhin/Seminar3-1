@@ -90,5 +90,8 @@ Git — распределённая система управления вер�
 Here some text to  cause conflict
 supposed to be in 3d pard.
 
-will it be conflict in the 4th part?  because strings of fourth part  bellow was shifted 
+will it be conflict in the 4th part?  because strings of fourth part  bellow was shifted.... 
+
+and add come more text here to add second commit in main.- to see how it is visualised while other branches is being edited
+
 ## Слияние веток
