@@ -125,11 +125,14 @@ git проверит на предмет не слитых наработок и
 
 ## Визуализация ветвления
 
-Here some text to  cause conflict
-supposed to be in 3d pard.
+Для того, чтобы проще было визуально представить ветку, можно воспользоваться командой 
 
-will it be conflict in the 4th part?  because strings of fourth part  bellow was shifted.... 
+    git log --graph
+отобразит подробно лог  (включая дату, хэш, автора, комментарий.) и визуалицию 	ветвления этой ветки и связанных с ней.
 
-and add come more text here to add second commit in main.- to see how it is visualised while other branches is being edited
+Если надо посмотреть визуализацию всего дерева веток в более удобочитаемом виде(1 	строка: хэш + комментарий), можно воспользоваться командой.
+	
+    git log --graph --all --oneline
+
 
 ## Слияние веток
