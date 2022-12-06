@@ -87,4 +87,8 @@ Git — распределённая система управления вер�
 
 ## Визуализация ветвления
 
+Here some text to  cause conflict
+supposed to be in 3d pard.
+
+will it be conflict in the 4th part?  because strings of fourth part  bellow was shifted 
 ## Слияние веток
